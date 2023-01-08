@@ -1,0 +1,42 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "动漫 \n网格 \n图片 \n光标效果 \n褪色",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"picstype" : 
+			{
+				"index" : 0,
+				"options" : 
+				[
+					{
+						"label" : "MAL Top 250",
+						"value" : "1"
+					},
+					{
+						"label" : "Anime Girls",
+						"value" : "2"
+					}
+				],
+				"order" : 100,
+				"text" : "Pics Type",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Anime" ],
+	"title" : "Anime Grid Pics Cursor Effect Fade",
+	"type" : "web",
+	"version" : 0
+}
